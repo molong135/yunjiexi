@@ -1,0 +1,8 @@
+---------------------------------------------------------------
+[2019-07-06T08:41:02+00:00] 127.0.0.1 GET qtsc1.top/
+[运行时间：0.014001s] [吞吐率：71.42req/s] [内存消耗：524.46kb] [文件加载：28]
+[ error ] [2]Use of undefined constant ture - assumed 'ture' (this will throw an Error in a future version of PHP)[D:\WWW\sc\yc_sc\qtsc.shzmzxw\config\app.php:22]
+---------------------------------------------------------------
+[2019-07-06T08:41:02+00:00] 127.0.0.1 GET qtsc1.top/favicon.ico
+[运行时间：0.011001s] [吞吐率：90.90req/s] [内存消耗：524.67kb] [文件加载：28]
+[ error ] [2]Use of undefined constant ture - assumed 'ture' (this will throw an Error in a future version of PHP)[D:\WWW\sc\yc_sc\qtsc.shzmzxw\config\app.php:22]
